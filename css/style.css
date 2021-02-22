@@ -1,0 +1,65 @@
+body {
+  background-image: url('https://images.wallpaperscraft.com/image/books_shelf_graffiti_125860_300x168.jpg');
+}
+
+.Head {
+  background-image: url('https://i.pinimg.com/originals/36/8c/12/368c12ce8dd8ad6649b4d625e6c6eeac.jpg');
+  background-size: 100%;
+}
+
+html,body {
+  height: 100%;
+}
+
+.Main-heading {
+  font-family: "Dancing Script";
+  font-size: 70px;
+  font-weight: 600;
+  width: 50%;
+  color: #a20a0a;
+}
+div {
+  height: 50%;
+  width: 100%;
+}
+h2 {
+  font-weight: bolder;
+  font-family: "Oxygen";
+  padding-top: 10px;
+}
+
+h3 {
+  padding-left: 10px;
+}
+
+img {
+  padding: 10px 15px;
+  float: left;
+  width: 150px;
+}
+
+.First-Book {
+  background-color: grey;
+}
+
+ .Second-Book {
+  background-color: #726a95;
+}
+
+.Third-Book {
+  background-color: #ad6c80;
+}
+
+.Fourth-Book {
+  background-color: #709fb0;
+}
+
+.Fifth-Book {
+  background-color: #f2a154;
+}
+p {
+  font-family: "Josefi Sans";
+  line-height: 2;
+  margin-left: 10px;
+  margin-right: 20px;
+}
